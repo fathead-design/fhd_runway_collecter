@@ -2,6 +2,8 @@
 
 `fhd_runway_collecter` is a standalone Perch Runway admin app for ordering a **filtered subset** of a Collection. An editor can choose a profile, choose one or two category filters, drag just the matching items, and save the public display order.
 
+Repository: [fathead-design/fhd_runway_collecter](https://github.com/fathead-design/fhd_runway_collecter)
+
 ![Illustrative organizer screen](docs/screenshots/organizer-illustration.png)
 
 > The image is an illustrative UI mockup, not a capture from a live Perch installation.
