@@ -38,6 +38,10 @@ Category-set values are the **slugs**, not their display titles. Field values ar
 
 For a two-filter profile, choose the primary category first; the secondary select then contains only secondary categories used by items in that primary group. For a one-filter profile, the organizer becomes available after the primary choice.
 
+### Edit an item
+
+Click an item name in the organizer to open that item in Perch’s native Collection editor in a new browser tab. The separate tab keeps any unsaved drag order on the organizer page intact. Save the item in Perch, return to the organizer, and refresh it if changed titles or categories should be reflected before ordering.
+
 ### Public templates
 
 This app does **not** use or change Perch’s global Collection `itemOrder`. Your public Collection template/query must explicitly sort by the configured field. For example:
