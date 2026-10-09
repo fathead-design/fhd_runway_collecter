@@ -8,6 +8,7 @@
 .fhd-collecter__item-title { flex: 1; font-weight: 600; }
 a.fhd-collecter__item-title { color: inherit; text-decoration: none; }
 a.fhd-collecter__item-title:hover, a.fhd-collecter__item-title:focus { color: #176e9e; text-decoration: underline; }
+.fhd-collecter__item-link { cursor: pointer; text-decoration: underline; }
 .fhd-collecter__item input.text.s { margin-left: auto; }
 .fhd-collecter__profiles { list-style: none; margin-left: 0; }
 .fhd-collecter__profiles li { border-bottom: 1px solid #d9dfe2; padding: .5rem 0; }

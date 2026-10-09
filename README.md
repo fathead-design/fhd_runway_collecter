@@ -40,7 +40,7 @@ For a two-filter profile, choose the primary category first; the secondary selec
 
 ### Edit an item
 
-Click an item name in the organizer to open that item in Perch’s native Collection editor in a new browser tab. The separate tab keeps any unsaved drag order on the organizer page intact. Save the item in Perch, return to the organizer, and refresh it if changed titles or categories should be reflected before ordering.
+Click an item name in the organizer to open that item in Perch’s native Collection editor in a new browser tab. The separate tab keeps any unsaved drag order on the organizer page intact. The link explicitly stops Perch’s sortable-list click and drag handlers, which otherwise suppress links inside a `.basic-sortable` list. Save the item in Perch, return to the organizer, and refresh it if changed titles or categories should be reflected before ordering.
 
 ### Public templates
 
