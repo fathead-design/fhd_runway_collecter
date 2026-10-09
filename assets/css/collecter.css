@@ -1,0 +1,12 @@
+/* FHD Collection Organizer: intentionally small, scoped, and easy to override. */
+.fhd-collecter { max-width: 68rem; }
+.fhd-collecter__filters { display: flex; flex-wrap: wrap; gap: 1rem 2rem; align-items: end; }
+.fhd-collecter__filters .field-wrap { min-width: 14rem; }
+.fhd-collecter__status { background: #f4f6f7; border-left: 4px solid #7b8b94; padding: .85rem 1rem; }
+.fhd-collecter__list { max-width: 52rem; }
+.fhd-collecter__item > div { display: flex; align-items: center; gap: 1rem; }
+.fhd-collecter__item-title { flex: 1; font-weight: 600; }
+.fhd-collecter__item input.text.s { margin-left: auto; }
+.fhd-collecter__profiles { list-style: none; margin-left: 0; }
+.fhd-collecter__profiles li { border-bottom: 1px solid #d9dfe2; padding: .5rem 0; }
+.fhd-collecter__delete { display: inline; margin-left: .75rem; }
