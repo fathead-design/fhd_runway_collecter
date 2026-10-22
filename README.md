@@ -4,7 +4,7 @@
 
 Repository: [fathead-design/fhd_runway_collecter](https://github.com/fathead-design/fhd_runway_collecter)
 
-Team documentation: [docs/README.md](docs/README.md). When this repository lives in the Knowledge vault, those notes are also available directly in Obsidian.
+Team documentation: [FHD Collection Organizer Documentation](docs/FHD%20Collection%20Organizer%20Documentation.md). When this repository lives in the Knowledge vault, those notes are also available directly in Obsidian.
 
 ![Illustrative organizer screen](docs/screenshots/organizer-illustration.png)
 
