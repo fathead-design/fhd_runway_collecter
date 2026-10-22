@@ -4,6 +4,8 @@
 
 Repository: [fathead-design/fhd_runway_collecter](https://github.com/fathead-design/fhd_runway_collecter)
 
+Team documentation: [docs/README.md](docs/README.md). When this repository lives in the Knowledge vault, those notes are also available directly in Obsidian.
+
 ![Illustrative organizer screen](docs/screenshots/organizer-illustration.png)
 
 > The image is an illustrative UI mockup, not a capture from a live Perch installation.
